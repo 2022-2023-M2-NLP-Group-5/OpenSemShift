@@ -1,0 +1,3 @@
+[submodule "scalable_semantic_shift"]
+	path = scalable_semantic_shift
+	url = https://github.com/2022-2023-M2-NLP-Group-5/scalable_semantic_shift.git
