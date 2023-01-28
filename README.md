@@ -13,7 +13,10 @@ The OpenSemShift project is designed as a guideline and a starting point for the
 
 ## Install instructions
 
-This project was designed and tested using Python 3.10.
+For detailed installation instructions, follow both of the READMEs in our submodules: 
+1. submodule for our backend, in scalable_semantic_shift/
+2. submodule for our frontend, in production-app/
+
 To setup the project, you have to:
 1. clone the repository;
 2. [install the Python dependencies](#python-dependencies);
