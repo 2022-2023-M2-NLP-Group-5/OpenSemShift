@@ -1,10 +1,10 @@
 # Diachronic-semantic-analogies
 
 The current repository contains the data, code and results of our project on diachronic semantic analogies.
-It was realised by [Aguiar Mathilde](https://github.com/MathildeAguiar), [So Averie](https://github.com/averieso), [Tankard Scott](https://github.com/tabbyrobin) and [NGO Van Duy](https://github.com/thebugcreator) for the 2022-2023 Software Project (UE905 EC1) at IDMC (Nancy), under the supervision of Esteban Marquer and Miguel Couceiro.
+It was realised by [Aguiar Mathilde](https://github.com/MathildeAguiar), [So Averie Ho Zoen](https://github.com/averieso), [Tankard Scott](https://github.com/tabbyrobin) and [NGO Van Duy](https://github.com/thebugcreator) for the 2022-2023 Software Project (UE905 EC1) at IDMC (Nancy), under the supervision of Esteban Marquer and Miguel Couceiro.
 
 ## Abstract
-The diachronic semantic analogies project is designed as a guideline and a starting point for the `README.md` file requested for the Software Project GitHub repository. It is not meant to represent a specific project but to give key points to write a readme following the instructions.
+The OpenSemShift project is designed as a guideline and a starting point for the `README.md` file requested for the Software Project GitHub repository. It is not meant to represent a specific project but to give key points to write a readme following the instructions.
 
 ## Content
 - [Install instructions](#install-instructions)
