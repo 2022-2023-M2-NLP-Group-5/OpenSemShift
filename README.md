@@ -114,4 +114,4 @@ python evaluate.py --task 'semeval' --gold_standard_path PathToSemEvalGraded.txt
 - [`results/`](/results/): folder containing all the results generated during the project.
     - [`results/models/`](/results/models/): folder containing the models trained during the project.
     - [`results/plots/`](/results/plots/): folder containing the plots describing the performance and the experiments.
-- [`articles/`](/articles/): folder containing all the articles read or mentioned in the report, as PDFs. Each file is labled using the template `[article topic]-[publication year]-[authors' last names].pdf`; if more than 3 authors are present, `[authors' last names]` is replaced by `[first author's last name]-et-al` instead.
+- [`articles/links.md`](/articles/links.md): contains all the articles read or mentioned in the report. 
