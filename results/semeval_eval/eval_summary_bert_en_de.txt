@@ -1,0 +1,4 @@
+Pearson correlation results:
+K-means 5: 0.42112751866385767
+K-means 7: 0.38259529919151714
+Aff-prop: 0.3382536066295006
