@@ -25,5 +25,5 @@ For detailed installation instructions, follow both of the READMEs in our submod
     - the models trained during the project can be found [here](https://huggingface.co/OpenSemShift).
     - [`results/measure_semantic_shift/`](/results/measure_semantic_shift/): folder containing outputs of semantic shift measurements of our queried words
     - [`results/semeval_eval/`](/results/semeval_eval/): folder containing evaluation summary of our outputs against the gold dataset in SemEval2020 - Task 1
-    - [`results/outputs_visualization/`](/results/vizualisation/): folder containing the visualizations generated from some sets of queried words.
+    - [`results/outputs_visualization/`](/results/outputs_vizualisation/): folder containing the visualizations generated from some sets of queried words.
 - [`articles/links.md`](/articles/links.md): contains all the articles read or mentioned in the report. 
