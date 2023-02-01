@@ -17,35 +17,34 @@
 
 [9] [Jianhua Lin. Divergence measures based on the shannon entropy. IEEE Transactions on Information theory, 37(1):145–151, 1991.](http://sansan.phy.ncu.edu.tw/~hclee/ref/Lin_divergenceIEEE91.pdf)
 
-[10] [Mario Giulianelli. Lexical semantic change analysis with contextualised word representations. Unpublished master’s thesis, University of Amsterdam, Amsterdam, 2019.](https://glnmario.github.io/mscthesis.pdf) [<ins>paper</ins>](https://aclanthology.org/2020.acl-main.365.pdf)
+[10] [Guy D. Rosin, Eytan Adar, and Kira Radinsky. Learning word relatedness over time, 2017.](http://aclanthology.lst.uni-saarland.de/D17-1121.pdf)
 
-[11] [Andrey Kutuzov and Mario Giulianelli. Uio-uva at semeval-2020 task 1: Contextualised embeddings for lexical semantic change detection. arXiv preprint arXiv:2005.00050, 2020.](https://aclanthology.org/2020.semeval-1.14.pdf)
+[11] [Terrence Szymanski. Temporal word analogies: Identifying lexical replacement with diachronic word embeddings. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), Vancouver, Canada, August 2017. Association for Computational Linguistics.](https://aclanthology.org/P17-2071.pdf)
 
-[12] [Guy D. Rosin, Eytan Adar, and Kira Radinsky. Learning word relatedness over time, 2017.](http://aclanthology.lst.uni-saarland.de/D17-1121.pdf)
+[12] [Wenjun Qiu and Yang Xu. Histbert: A pre-trained language model for diachronic lexical semantic analysis. arXiv preprint arXiv:2202.03612, 2022.](https://arxiv.org/pdf/2202.03612.pdf)
 
-[13] [Terrence Szymanski. Temporal word analogies: Identifying lexical replacement with diachronic word embeddings. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), Vancouver, Canada, August 2017. Association for Computational Linguistics.](https://aclanthology.org/P17-2071.pdf)
+[13] [Spurthi Amba Hombaiah, Tao Chen, Mingyang Zhang, Michael Bendersky, and Marc Najork. Dynamic language models for continuously evolving content. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, pages 2514–2524, 2021.](https://dl.acm.org/doi/pdf/10.1145/3447548.3467162)
 
-[14] [Wenjun Qiu and Yang Xu. Histbert: A pre-trained language model for diachronic lexical semantic analysis. arXiv preprint arXiv:2202.03612, 2022.](https://arxiv.org/pdf/2202.03612.pdf)
+[14] [William L Hamilton, Jure Leskovec, and Dan Jurafsky. Diachronic word embeddings reveal statistical laws of semantic change. arXiv preprint arXiv:1605.09096, 2016.](https://arxiv.org/pdf/1605.09096.pdf)
 
-[15] [Spurthi Amba Hombaiah, Tao Chen, Mingyang Zhang, Michael Bendersky, and Marc Najork. Dynamic language models for continuously evolving content. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, pages 2514–2524, 2021.](https://dl.acm.org/doi/pdf/10.1145/3447548.3467162)
+[15] [Nikolay Arefyev and Vasily Zhikov. BOS at SemEval-2020 task 1: Word sense induction via lexical substitution for lexical semantic change detection. In Proceedings of the Fourteenth Workshop on Semantic Evaluation, pages 171–179, Barcelona (online), December 2020. International Committee for Computational Linguistics.](https://aclanthology.org/2020.semeval-1.20.pdf)
 
-[16] [William L Hamilton, Jure Leskovec, and Dan Jurafsky. Diachronic word embeddings reveal statistical laws of semantic change. arXiv preprint arXiv:1605.09096, 2016.](https://arxiv.org/pdf/1605.09096.pdf)
+[16] [Mario Giulianelli, Marco Del Tredici, and Raquel Fernández. Analysing lexical semantic change with contextualised word representations. In Proceedings of the 58th Annual Meeting of the Association for Computational
+Linguistics, pages 3960–3973, Online, July 2020. Association for Computational Linguistics.](https://aclanthology.org/2020.acl-main.365.pdf)
 
-[17] [Nikolay Arefyev and Vasily Zhikov. BOS at SemEval-2020 task 1: Word sense induction via lexical substitution for lexical semantic change detection. In Proceedings of the Fourteenth Workshop on Semantic Evaluation, pages 171–179, Barcelona (online), December 2020. International Committee for Computational Linguistics.](https://aclanthology.org/2020.semeval-1.20.pdf)
+[17] [Mark Davies. Expanding horizons in historical linguistics with the 400-million word corpus of historical american english. Corpora, 7(2):121–157, 2012.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5a004963d2c6c71ffb37cbf28c9bb471d555d2db)
 
-[18] [Mark Davies. Expanding horizons in historical linguistics with the 400-million word corpus of historical american english. Corpora, 7(2):121–157, 2012.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5a004963d2c6c71ffb37cbf28c9bb471d555d2db)
+[18] [Reem Alatrash, Dominik Schlechtweg, Jonas Kuhn, and Sabine Schulte Im Walde. Ccoha: Clean corpus ofhistorical american english. In Proceedings of The 12th Language Resources and Evaluation Conference, pages 6958–6966, 2020.](https://aclanthology.org/2020.lrec-1.859.pdf)
 
-[19] [Reem Alatrash, Dominik Schlechtweg, Jonas Kuhn, and Sabine Schulte Im Walde. Ccoha: Clean corpus ofhistorical american english. In Proceedings of The 12th Language Resources and Evaluation Conference, pages 6958–6966, 2020.](https://aclanthology.org/2020.lrec-1.859.pdf)
+[19] [Deutsches Textarchiv. Grundlage für ein referenzkorpus der neuhochdeutschen sprache. herausgegeben von der berlin-brandenburgischen akademie der wissenschaften. Berlin-Brandenburg Academy of Sciences, 2017.](https://www.deutschestextarchiv.de/.)
 
-[20] [Deutsches Textarchiv. Grundlage für ein referenzkorpus der neuhochdeutschen sprache. herausgegeben von der berlin-brandenburgischen akademie der wissenschaften. Berlin-Brandenburg Academy of Sciences, 2017.](https://www.deutschestextarchiv.de/.)
+[20] [Berliner Zeitung. Diachronic newspaper corpus published by staatsbibliothek zu berlin., 2018.](https://zefys.staatsbibliothek-berlin.de/)
 
-[21] [Berliner Zeitung. Diachronic newspaper corpus published by staatsbibliothek zu berlin., 2018.](https://zefys.staatsbibliothek-berlin.de/)
+[21] [Neues Deutschland. Diachronic newspaper corpus published by staatsbibliothek zu berlin., 2018.](https://zefys.staatsbibliothek-berlin.de/)
 
-[22] [Neues Deutschland. Diachronic newspaper corpus published by staatsbibliothek zu berlin., 2018.](https://zefys.staatsbibliothek-berlin.de/)
+[22] [Dominik Schlechtweg, Anna Hätty, Marco Del Tredici, and Sabine Schulte im Walde. A wind of change: Detecting and evaluating lexical semantic change across times and domains. arXiv preprint arXiv:1906.02979, 2019.](https://arxiv.org/pdf/1906.02979.pdf)
 
-[23] [Dominik Schlechtweg, Anna Hätty, Marco Del Tredici, and Sabine Schulte im Walde. A wind of change: Detecting and evaluating lexical semantic change across times and domains. arXiv preprint arXiv:1906.02979, 2019.](https://arxiv.org/pdf/1906.02979.pdf)
-
-[24] [Martin Pömsl and Roman Lyapin. Circe at semeval-2020 task 1: Ensembling context-free and context-dependent word representations. arXiv preprint arXiv:2005.06602, 2020](https://aclanthology.org/2020.semeval-1.21.pdf)
+[23] [Martin Pömsl and Roman Lyapin. Circe at semeval-2020 task 1: Ensembling context-free and context-dependent word representations. arXiv preprint arXiv:2005.06602, 2020](https://aclanthology.org/2020.semeval-1.21.pdf)
 
 ## others
 [Transferring Learned Models of Morphological Analogy (Esteban Marquer, Pierre-Alexandre Murena and Miguel Couceiro](https://github.com/pmonnin/ata2022-papers-slides/raw/main/papers/ICCBR_2022_Workshop_paper_71.pdf) [<ins>slides</ins>](https://github.com/pmonnin/ata2022-papers-slides/raw/main/slides/ATA_2022_emarquer.pdf) [<ins>workshop link</ins>](https://iccbr-ata2022.loria.fr/schedule/)
@@ -69,3 +68,4 @@ https://hackingsemantics.xyz/2019/analogies/
 ## data
 1. [google books ngram](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 2. [Test Data for SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection](https://www.ims.uni-stuttgart.de/en/research/resources/corpora/sem-eval-ulscd/)
+
