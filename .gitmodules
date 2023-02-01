@@ -4,5 +4,6 @@
 [submodule "production-app"]
 	path = production-app
 	url = https://github.com/2022-2023-M2-NLP-Group-5/production-app.git
+	branch = main
 [submodule "scalable_semantic_shift/"]
 	branch = experimental
